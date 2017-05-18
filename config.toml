@@ -1,6 +1,6 @@
-baseurl = "https://example.com"
+baseurl = "mandyzchen.github.io/"
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2017 Zhimin Chen"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,16 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Zhimin Chen (Mandy)"
+  role = "Psychology graduate student"
+  organization = "University of California, Berkeley"
   organization_url = ""
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "mandy_chen@berkeley.edu"
+  address = "none"
+  office_hours = "Email for appointment"
+  phone = "none"
+  skype = "mandy93513"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -125,22 +125,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mandy_chen@berkeley.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/MandyZChen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/MandyZChen"
 
 
 # Navigation Links
